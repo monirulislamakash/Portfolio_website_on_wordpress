@@ -1,0 +1,5 @@
+Database Name: monirkhan
+Database User: monirkhan@gmail.com
+Database Password: monirkhan@gmail.com
+WP User: monirkhan@gmail.com
+WP Password: monirkhan@gmail.com
